@@ -11,8 +11,9 @@
 
      **negative prompt** :  *(nsfw, naked, nude, deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime, mutated hands and fingers:1.4), (deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, disconnected limbs, mutation, mutated, ugly, disgusting, amputation ,BadDream, UnrealisticDream*
 
-  3. Details used in the prompt: I used general appearance prompts such as hair and eyes because it yielded the best results.
+  2. Details used in the prompt: I used general appearance prompts such as hair and eyes because it yielded the best results.
 
-  4. Stable Diffusion WebUI with [realistic vision](https://civitai.com/models/4201/realistic-vision-v60-b1), [unrealistic dream](https://civitai.com/models/72437/baddream-unrealisticdream-negative-embeddings) and [lora detail tweaker](https://civitai.com/models/58390/detail-tweaker-lora-lora).
+  3. Stable Diffusion WebUI with [realistic vision](https://civitai.com/models/4201/realistic-vision-v60-b1), [unrealistic dream](https://civitai.com/models/72437/baddream-unrealisticdream-negative-embeddings) and [lora detail tweaker](https://civitai.com/models/58390/detail-tweaker-lora-lora).
 
-  5. While testing I got better results with **Realistic Vision** rather than [**EpicRealism**](https://civitai.com/models/25694/epicrealism). I followed the recommendations given by  the developer of Realistic Vision and I just tested and tweaked the sampling rate and CFG scale (a lot).
+  4. While testing I got better results with **Realistic Vision** rather than [**EpicRealism**](https://civitai.com/models/25694/epicrealism). I followed the recommendations given by  the developer of Realistic Vision and I just tested and tweaked the sampling rate and CFG scale (a lot).
+
