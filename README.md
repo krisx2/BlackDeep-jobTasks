@@ -3,6 +3,11 @@
 - Task1 - llm summary
   
   1. Explained in jupyter notebook↑↑↑↑↑
+ 
+  
+  - [with ollama library](https://nbviewer.org/github/krisx2/BlackDeep-jobTasks/blob/main/ollamatask1.ipynb)
+  - [with langchain library](https://nbviewer.org/github/krisx2/BlackDeep-jobTasks/blob/main/task1langchain.ipynb)
+  
   
 - Task2 - Image generation
   1. Prompts Used - **positive prompt** : *a caucasian man in black clothes with brown hair  and a woman with curly black hair and blue eyes,nature,sunset,closeup photo <lora:add_detail:0.5>*,
