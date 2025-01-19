@@ -17,3 +17,4 @@
 
   4. While testing I got better results with **Realistic Vision** rather than [**EpicRealism**](https://civitai.com/models/25694/epicrealism). I followed the recommendations given by  the developer of Realistic Vision and I just tested and tweaked the sampling rate and CFG scale (a lot).
 
+P.S Unfortunately the eyes have slight imperfections because of the upscaling
